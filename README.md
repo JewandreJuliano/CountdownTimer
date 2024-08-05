@@ -1,2 +1,2 @@
-# countdownTimer
-New Year countdown!
+# **Countdown Timer**
+- New Year countdown!
